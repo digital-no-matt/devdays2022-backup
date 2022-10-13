@@ -46,8 +46,11 @@ img {
 }
 
 h1 {
-  color: #00b39b;
-  font-weight: 200;
+  color: #000;
+  font-weight: bold;
+  font-size: 50px;
+  font-family: 'Oswald';
+  margin: 10px;
 }
 
 h2 {
