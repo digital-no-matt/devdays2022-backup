@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-  max-width: 600px;
+  max-width: 1280px;
   margin: 0 auto;
   padding: 20px;
 }
@@ -24,11 +24,11 @@ nav a {
 }
 
 nav a:hover {
-  color: #00b39b;
+  color: #782b92;
 }
 
 img {
-  max-width: 300px;
+  max-width: 100%;
 }
 
 .languages {
@@ -46,9 +46,9 @@ img {
 }
 
 h1 {
-  color: #000;
+  color: #230a3a;
   font-weight: bold;
-  font-size: 50px;
+  font-size: 72px;
   font-family: 'Oswald';
   margin: 10px;
 }
@@ -56,6 +56,8 @@ h1 {
 h2 {
   color: #00b39b;
   font-weight: 200;
+  font-family: 'Oswald';
+  color: #000;
 }
 
 ul {
@@ -106,4 +108,5 @@ footer {
 
 .hint {
   font-size: 0.7em;
+  display:none;
 }
