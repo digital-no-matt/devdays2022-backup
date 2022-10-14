@@ -1,0 +1,8 @@
+!content-type:presentation
+name: presentations-app
+label: Presentations
+
+#Optionally override any of the app configuration supplied by the content type.
+subApps:
+  detail:
+    label: Presentation Detail
