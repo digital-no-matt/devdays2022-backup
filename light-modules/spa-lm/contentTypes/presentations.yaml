@@ -1,19 +1,14 @@
 datasource:
-  workspace: activities
+  workspace: presentations
   autoCreate: true
 model:
-  nodeType: activity
+  nodeType: presentation
   properties:
     name:
-      label: Name 2
+      label: Presentation name
       i18n: true
       required: true
     description:
-      type: richText
-      label: Description
-      i18n: true
-      required: false
-    content2:
       type: richText
       label: Description
       i18n: true
@@ -23,4 +18,3 @@ model:
       label: Description
       i18n: true
       required: false
-
