@@ -1,0 +1,9 @@
+!content-type:speaker
+name: speakers-app
+label: Speakers
+icon: icon-people
+
+#Optionally override any of the app configuration supplied by the content type.
+subApps:
+  detail:
+    label: Speaker Detail
