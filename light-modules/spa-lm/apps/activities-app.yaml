@@ -1,6 +1,7 @@
 !content-type:activity
 name: activities-app
 label: Activities
+icon: icon-notifications-app
 
 #Optionally override any of the app configuration supplied by the content type.
 subApps:
