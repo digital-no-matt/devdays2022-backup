@@ -1,6 +1,6 @@
 title: 'React: Basic'
 
-baseUrl: http://localhost:3000
+baseUrl: https://devdays2022-isnt-this-cool.netlify.app/
 routeTemplate: '/{language}{{@path}}'
 
 dialog: spa-lm:pages/basic
@@ -32,4 +32,3 @@ areas:
         id: spa-lm:components/paragraph
       List:
         id: spa-lm:components/list
-        
