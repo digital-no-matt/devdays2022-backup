@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import { getAPIBase, getCurrentLanguage } from '../helpers/AppHelpers';
+import { getAPIBase } from '../helpers/AppHelpers';
 
 function renderLanguages() {
   //const currentLanguage = getCurrentLanguage();
