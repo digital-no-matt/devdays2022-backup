@@ -1,9 +1,9 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import { getAPIBase, getLanguages, getCurrentLanguage, changeLanguage } from '../helpers/AppHelpers';
+import { getAPIBase, getCurrentLanguage } from '../helpers/AppHelpers';
 
 function renderLanguages() {
-  const currentLanguage = getCurrentLanguage();
+  //const currentLanguage = getCurrentLanguage();
 
   return null;
 

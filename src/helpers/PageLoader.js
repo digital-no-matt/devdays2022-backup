@@ -1,6 +1,6 @@
 import React from 'react';
 import config from '../magnolia.config';
-import { getAPIBase, getLanguages, removeCurrentLanguage, getCurrentLanguage, getVersion } from './AppHelpers';
+import { getAPIBase, removeCurrentLanguage, getCurrentLanguage } from './AppHelpers';
 
 import { EditablePage } from '@magnolia/react-editor';
 import { EditorContextHelper } from '@magnolia/react-editor';
